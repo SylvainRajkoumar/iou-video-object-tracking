@@ -10,3 +10,10 @@ Python 3.7 version 64-Bit https://www.python.org/downloads/
 ```
 pip install -r requirements.txt
 ```
+
+
+
+## Running
+```
+python main.py
+```
