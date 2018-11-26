@@ -11,7 +11,7 @@ Python 3.7 version 64-Bit https://www.python.org/downloads/
 pip install -r requirements.txt
 ```
 
-Download https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0
+Download resnet50_coco_best_v2.0.1.h5 from https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0
 
 ## Running
 ```
