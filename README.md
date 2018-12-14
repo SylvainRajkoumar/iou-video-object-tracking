@@ -1,6 +1,7 @@
 # iou-video-object-tracking
 
 # Prerequisites
+Make sure a webcam is available.
 Python 3.7 version 64-Bit https://www.python.org/downloads/
 
 ## Installing
